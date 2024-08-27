@@ -1,0 +1,32 @@
+{
+  "exam": {
+    "totalTest": "40",
+    "totalPlant": "60"
+  },
+  "data": [
+    {
+      "order": "1",
+      "name": "Jumanazarov Beknazar",
+      "incorrect": "10",
+      "plant": "43"
+    },
+    {
+      "order": "2",
+      "name": "Nurniyazova Dilafruz",
+      "incorrect": "15",
+      "plant": "34"
+    },
+    {
+      "order": "3",
+      "name": "Marsova Dilafruz",
+      "incorrect": "16",
+      "plant": "47"
+    },
+    {
+      "order": "4",
+      "name": "Habipova Nilufar",
+      "incorrect": "7",
+      "plant": "51"
+    }
+  ]
+}
