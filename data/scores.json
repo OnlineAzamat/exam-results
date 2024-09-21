@@ -1,32 +1,158 @@
 {
   "exam": {
     "totalTest": "40",
-    "totalPlant": "60"
+    "totalPlant": "150"
   },
   "data": [
     {
       "order": "1",
       "name": "Jumanazarov Beknazar",
-      "incorrect": "10",
-      "plant": "43"
+      "incorrect": "4",
+      "plant": "285"
     },
     {
       "order": "2",
-      "name": "Nurniyazova Dilafruz",
-      "incorrect": "15",
-      "plant": "34"
+      "name": "Yusupbaev Baxadir",
+      "incorrect": "27",
+      "plant": "23"
     },
     {
       "order": "3",
-      "name": "Marsova Dilafruz",
-      "incorrect": "16",
-      "plant": "47"
+      "name": "Nurniyazova Dilafruz",
+      "incorrect": "12",
+      "plant": "14"
     },
     {
       "order": "4",
-      "name": "Habipova Nilufar",
-      "incorrect": "7",
-      "plant": "51"
+      "name": "Ótebaeva Roza",
+      "incorrect": "14",
+      "plant": "241"
+    },
+    {
+      "order": "5",
+      "name": "Abatova Shaxnoza",
+      "incorrect": "20",
+      "plant": "106"
+    },
+    {
+      "order": "6",
+      "name": "Umarova Sayora",
+      "incorrect": "22",
+      "plant": "56"
+    },
+    {
+      "order": "7",
+      "name": "Kuandikova Gulbanu",
+      "incorrect": "23",
+      "plant": "35"
+    },
+    {
+      "order": "8",
+      "name": "Esbolsinov Jahangir",
+      "incorrect": "21",
+      "plant": "41"
+    },
+    {
+      "order": "9",
+      "name": "Mambetkarimova Uldawlet",
+      "incorrect": "23",
+      "plant": "0"
+    },
+    {
+      "order": "10",
+      "name": "Islamova Iroda",
+      "incorrect": "23",
+      "plant": "142"
+    },
+    {
+      "order": "11",
+      "name": "Jumamuratov Ospan",
+      "incorrect": "30",
+      "plant": "12"
+    },
+    {
+      "order": "12",
+      "name": "Berdimuratov Muhammedyusuf",
+      "incorrect": "27",
+      "plant": "0"
+    },
+    {
+      "order": "13",
+      "name": "Samandarova Ayzada",
+      "incorrect": "30",
+      "plant": "32"
+    },
+    {
+      "order": "14",
+      "name": "Ongarbaev Nursultan",
+      "incorrect": "18",
+      "plant": "19"
+    },
+    {
+      "order": "15",
+      "name": "Alekeeva Malika",
+      "incorrect": "26",
+      "plant": "45"
+    },
+    {
+      "order": "16",
+      "name": "Abdimuratova Ulzada",
+      "incorrect": "21",
+      "plant": "31"
+    },
+    {
+      "order": "17",
+      "name": "Sitanova Manzura",
+      "incorrect": "0",
+      "plant": ""
+    },
+    {
+      "order": "18",
+      "name": "Jenisbaev Ilyas",
+      "incorrect": "26",
+      "plant": "0"
+    },
+    {
+      "order": "19",
+      "name": "Toxtarbaeva Nurgul",
+      "incorrect": "",
+      "plant": ""
+    },
+    {
+      "order": "20",
+      "name": "Maqsetbaev Dawletyar",
+      "incorrect": "30",
+      "plant": "0"
+    },
+    {
+      "order": "21",
+      "name": "Allaxanova Umida",
+      "incorrect": "",
+      "plant": ""
+    },
+    {
+      "order": "22",
+      "name": "Abilkasimova Sayda",
+      "incorrect": "",
+      "plant": ""
+    },
+    {
+      "order": "23",
+      "name": "Pirjanova Jadira",
+      "incorrect": "",
+      "plant": ""
+    },
+    {
+      "order": "24",
+      "name": "Moldabaeva Qizjibek",
+      "incorrect": "",
+      "plant": ""
+    },
+    {
+      "order": "25",
+      "name": "",
+      "incorrect": "",
+      "plant": ""
     }
   ]
 }
